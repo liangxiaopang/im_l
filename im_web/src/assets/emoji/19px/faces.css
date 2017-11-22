@@ -1,0 +1,375 @@
+/* made by  雪碧图制作专家v1.0 */
+.faces
+{
+  display:inline-block;
+  width: 20px;
+  height: 20px;
+  background:url(faces.png) 0 0  no-repeat;
+  zoom:1;
+}
+.faces-wink{
+ background-position:0px 0px;
+}
+.faces-blush{
+ background-position:-20px 0px;
+}
+.faces-angry{
+ background-position:-40px 0px;
+}
+.faces-anguished{
+ background-position:-60px 0px;
+}
+.faces-weary{
+ background-position:-80px 0px;
+}
+.faces-fearful{
+ background-position:-100px 0px;
+}
+.faces-frowning{
+ background-position:-120px 0px;
+}
+.faces-innocent{
+ background-position:-140px 0px;
+}
+.faces-rage{
+ background-position:-160px 0px;
+}
+.faces-flushed{
+ background-position:-180px 0px;
+}
+.faces-unamused{
+ background-position:-200px 0px;
+}
+.faces-sob{
+ background-position:-220px 0px;
+}
+.faces-sweat{
+ background-position:-240px 0px;
+}
+.faces-grin{
+ background-position:-260px 0px;
+}
+.faces-grinning{
+ background-position:-280px 0px;
+}
+.faces-pensive{
+ background-position:0px -20px;
+}
+.faces-open{
+ background-position:-20px -20px;
+}
+.faces-heart{
+ background-position:-40px -20px;
+}
+.faces-persevere{
+ background-position:-60px -20px;
+}
+.faces-hushed{
+ background-position:-80px -20px;
+}
+.faces-cry{
+ background-position:-100px -20px;
+}
+.faces-bowtie{
+ background-position:-120px -20px;
+}
+.faces-dizzy{
+ background-position:-140px -20px;
+}
+.faces-kissing{
+ background-position:-160px -20px;
+}
+.faces-joy{
+ background-position:-180px -20px;
+}
+.faces-kissing_closed_eyes{
+ background-position:-200px -20px;
+}
+.faces-kissingface{
+ background-position:-220px -20px;
+}
+.faces-kissingheart{
+ background-position:-240px -20px;
+}
+.faces-laughing{
+ background-position:-260px -20px;
+}
+.faces-mask{
+ background-position:-280px -20px;
+}
+.faces-neutral{
+ background-position:0px -40px;
+}
+.faces-relaxed{
+ background-position:-20px -40px;
+}
+.faces-relieved{
+ background-position:-40px -40px;
+}
+.faces-satisfied{
+ background-position:-60px -40px;
+}
+.faces-sleeping{
+ background-position:-80px -40px;
+}
+.faces-smile{
+ background-position:-100px -40px;
+}
+.faces-smiley{
+ background-position:-120px -40px;
+}
+.faces-smirk{
+ background-position:-140px -40px;
+}
+.faces-stuck{
+ background-position:-160px -40px;
+}
+.faces-sung{
+ background-position:-180px -40px;
+}
+.faces-tired{
+ background-position:-200px -40px;
+}
+.faces-worried{
+ background-position:-220px -40px;
+}
+.faces-yum{
+ background-position:-240px -40px;
+}
+.faces-sunny{
+ background-position:-260px -40px;
+}
+.faces-moon{
+ background-position:-280px -40px;
+}
+.faces-apple{
+ background-position:0px -60px;
+}
+.faces-cherr{
+ background-position:-20px -60px;
+}
+.faces-green{
+ background-position:-40px -60px;
+}
+.faces-peach{
+ background-position:-60px -60px;
+}
+.faces-tanger{
+ background-position:-80px -60px;
+}
+.faces-water{
+ background-position:-100px -60px;
+}
+.faces-banana{
+ background-position:-120px -60px;
+}
+.faces-lemon{
+ background-position:-140px -60px;
+}
+.faces-love{
+ background-position:-160px -60px;
+}
+.faces-grapes{
+ background-position:-180px -60px;
+}
+.faces-straw{
+ background-position:-200px -60px;
+}
+.faces-basket{
+ background-position:-220px -60px;
+}
+.faces-bicy{
+ background-position:-240px -60px;
+}
+.faces-bike{
+ background-position:-260px -60px;
+}
+.faces-ok{
+ background-position:-280px -60px;
+}
+.faces-white{
+ background-position:0px -80px;
+}
+.faces-x{
+ background-position:-20px -80px;
+}
+.faces-bow{
+ background-position:-40px -80px;
+}
+.faces-wolf{
+ background-position:-60px -80px;
+}
+.faces-zzz{
+ background-position:-80px -80px;
+}
+.faces-closed{
+ background-position:-100px -80px;
+}
+.faces-wine{
+ background-position:-120px -80px;
+}
+.faces-coffee{
+ background-position:-140px -80px;
+}
+.faces-cop{
+ background-position:-160px -80px;
+}
+.faces-cupid{
+ background-position:-180px -80px;
+}
+.faces-plus{
+ background-position:-200px -80px;
+}
+.faces-facepun{
+ background-position:-220px -80px;
+}
+.faces-wave{
+ background-position:-240px -80px;
+}
+.faces-v{
+ background-position:-260px -80px;
+}
+.faces-fire{
+ background-position:-280px -80px;
+}
+.faces-game{
+ background-position:0px -100px;
+}
+.faces-gun{
+ background-position:-20px -100px;
+}
+.faces-hammer{
+ background-position:-40px -100px;
+}
+.faces-hat{
+ background-position:-60px -100px;
+}
+.faces-hocho{
+ background-position:-80px -100px;
+}
+.faces-hots{
+ background-position:-100px -100px;
+}
+.faces-jeans{
+ background-position:-120px -100px;
+}
+.faces-metal{
+ background-position:-140px -100px;
+}
+.faces-o{
+ background-position:-160px -100px;
+}
+.faces-pill{
+ background-position:-180px -100px;
+}
+.faces-pray{
+ background-position:-200px -100px;
+}
+.faces-rabbit2{
+ background-position:-220px -100px;
+}
+.faces-refuse{
+ background-position:-240px -100px;
+}
+.faces-ring{
+ background-position:-260px -100px;
+}
+.faces-rooster{
+ background-position:-280px -100px;
+}
+.faces-rowboat{
+ background-position:0px -120px;
+}
+.faces-ruler{
+ background-position:-20px -120px;
+}
+.faces-runner{
+ background-position:-40px -120px;
+}
+.faces-santa{
+ background-position:-60px -120px;
+}
+.faces-spark{
+ background-position:-80px -120px;
+}
+.faces-star{
+ background-position:-100px -120px;
+}
+.faces-star2{
+ background-position:-120px -120px;
+}
+.faces-sun{
+ background-position:-140px -120px;
+}
+.faces-swim{
+ background-position:-160px -120px;
+}
+.faces-syringe{
+ background-position:-180px -120px;
+}
+.faces-tada{
+ background-position:-200px -120px;
+}
+.faces-tent{
+ background-position:-220px -120px;
+}
+.faces-tiger{
+ background-position:-240px -120px;
+}
+.faces-tiger2{
+ background-position:-260px -120px;
+}
+.faces-tree{
+ background-position:-280px -120px;
+}
+.faces-trop{
+ background-position:0px -140px;
+}
+.faces-turtle{
+ background-position:-20px -140px;
+}
+.faces-twomen{
+ background-position:-40px -140px;
+}
+.faces-twowo{
+ background-position:-60px -140px;
+}
+.faces-umbre{
+ background-position:-80px -140px;
+}
+.faces-vertical{
+ background-position:-100px -140px;
+}
+.faces-walking{
+ background-position:-120px -140px;
+}
+.faces-watch{
+ background-position:-140px -140px;
+}
+.faces-wc{
+ background-position:-160px -140px;
+}
+.faces-wedd{
+ background-position:-180px -140px;
+}
+.faces-whale{
+ background-position:-200px -140px;
+}
+.faces-woman{
+ background-position:-220px -140px;
+}
+.faces-women{
+ background-position:-240px -140px;
+}
+.faces-yellow{
+ background-position:-260px -140px;
+}
+.faces-yen{
+ background-position:-280px -140px;
+}
+.faces-zap{
+ background-position:0px -160px;
+}
+.faces-book{
+ background-position:-20px -160px;
+}

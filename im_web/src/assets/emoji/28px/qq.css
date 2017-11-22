@@ -1,0 +1,388 @@
+/* made by  雪碧图制作专家v1.0 */
+.qq_face .qq
+{
+  display:block;
+  background:url(qq.png)  no-repeat;
+  float: left;
+  width: 29px;
+  height: 29px;
+  font-size: 0;
+  outline: 0;
+  text-indent: -999em;
+  border-bottom: 1px solid #f0f0f0;
+  border-right: 1px solid #f0f0f0;
+  cursor: pointer;
+}
+.qq_face {
+  margin:15px 20px;
+  overflow: hidden;
+  width: 450px;
+  height: 242px;
+}
+
+.qq_face .qq-smile{
+ background-position:0px 0px;
+}
+.qq_face .qq-worried{
+ background-position:-29px 0px;
+}
+.qq_face .qq-wink{
+ background-position:-58px 0px;
+}
+.qq_face .qq-neutral{
+ background-position:-87px 0px;
+}
+.qq_face .qq-sob{
+ background-position:-116px 0px;
+}
+.qq_face .qq-yum{
+ background-position:-145px 0px;
+}
+.qq_face .qq-grin{
+ background-position:-174px 0px;
+}
+.qq_face .qq-rage{
+ background-position:-203px 0px;
+}
+.qq_face .qq-weary{
+ background-position:-232px 0px;
+}
+.qq_face .qq-sung{
+ background-position:-261px 0px;
+}
+.qq_face .qq-sweat{
+ background-position:-290px 0px;
+}
+.qq_face .qq-unamused{
+ background-position:-319px 0px;
+}
+.qq_face .qq-mask{
+ background-position:-348px 0px;
+}
+.qq_face .qq-relieved{
+ background-position:-377px 0px;
+}
+.qq_face .qq-relaxed{
+ background-position:-406px 0px;
+}
+.qq_face .qq-pensive{
+ background-position:0px -29px;
+}
+.qq_face .qq-blush{
+ background-position:-29px -29px;
+}
+.qq_face .qq-open{
+ background-position:-58px -29px;
+}
+.qq_face .qq-angry{
+ background-position:-87px -29px;
+}
+.qq_face .qq-anguished{
+ background-position:-116px -29px;
+}
+.qq_face .qq-persevere{
+ background-position:-145px -29px;
+}
+.qq_face .qq-grinning{
+ background-position:-174px -29px;
+}
+.qq_face .qq-bowtie{
+ background-position:-203px -29px;
+}
+.qq_face .qq-dizzy{
+ background-position:-232px -29px;
+}
+.qq_face .qq-fearful{
+ background-position:-261px -29px;
+}
+.qq_face .qq-heart{
+ background-position:-290px -29px;
+}
+.qq_face .qq-cry{
+ background-position:-319px -29px;
+}
+.qq_face .qq-flushed{
+ background-position:-348px -29px;
+}
+.qq_face .qq-frowning{
+ background-position:-377px -29px;
+}
+.qq_face .qq-innocent{
+ background-position:-406px -29px;
+}
+.qq_face .qq-joy{
+ background-position:0px -58px;
+}
+.qq_face .qq-hushed{
+ background-position:-29px -58px;
+}
+.qq_face .qq-kissing{
+ background-position:-58px -58px;
+}
+.qq_face .qq-kissing_closed_eyes{
+ background-position:-87px -58px;
+}
+.qq_face .qq-kissingface{
+ background-position:-116px -58px;
+}
+.qq_face .qq-kissingheart{
+ background-position:-145px -58px;
+}
+.qq_face .qq-satisfied{
+ background-position:-174px -58px;
+}
+.qq_face .qq-sleeping{
+ background-position:-203px -58px;
+}
+.qq_face .qq-smiley{
+ background-position:-232px -58px;
+}
+.qq_face .qq-smirk{
+ background-position:-261px -58px;
+}
+.qq_face .qq-laughing{
+ background-position:-290px -58px;
+}
+.qq_face .qq-stuck{
+ background-position:-319px -58px;
+}
+.qq_face .qq-tired{
+ background-position:-348px -58px;
+}
+.qq_face .qq-pray{
+ background-position:-377px -58px;
+}
+.qq_face .qq-plus{
+ background-position:-406px -58px;
+}
+.qq_face .qq-refuse{
+ background-position:0px -87px;
+}
+.qq_face .qq-v{
+ background-position:-29px -87px;
+}
+.qq_face .qq-metal{
+ background-position:-58px -87px;
+}
+.qq_face .qq-facepun{
+ background-position:-87px -87px;
+}
+.qq_face .qq-wave{
+ background-position:-116px -87px;
+}
+.qq_face .qq-ok{
+ background-position:-145px -87px;
+}
+.qq_face .qq-white{
+ background-position:-174px -87px;
+}
+.qq_face .qq-x{
+ background-position:-203px -87px;
+}
+.qq_face .qq-wine{
+ background-position:-232px -87px;
+}
+.qq_face .qq-coffee{
+ background-position:-261px -87px;
+}
+.qq_face .qq-trop{
+ background-position:-290px -87px;
+}
+.qq_face .qq-water{
+ background-position:-319px -87px;
+}
+.qq_face .qq-banana{
+ background-position:-348px -87px;
+}
+.qq_face .qq-tanger{
+ background-position:-377px -87px;
+}
+.qq_face .qq-cherr{
+ background-position:-406px -87px;
+}
+.qq_face .qq-lemon{
+ background-position:0px -116px;
+}
+.qq_face .qq-grapes{
+ background-position:-29px -116px;
+}
+.qq_face .qq-straw{
+ background-position:-58px -116px;
+}
+.qq_face .qq-peach{
+ background-position:-87px -116px;
+}
+.qq_face .qq-green{
+ background-position:-116px -116px;
+}
+.qq_face .qq-apple{
+ background-position:-145px -116px;
+}
+.qq_face .qq-rabbit2{
+ background-position:-174px -116px;
+}
+.qq_face .qq-turtle{
+ background-position:-203px -116px;
+}
+.qq_face .qq-wolf{
+ background-position:-232px -116px;
+}
+.qq_face .qq-tiger{
+ background-position:-261px -116px;
+}
+.qq_face .qq-whale{
+ background-position:-290px -116px;
+}
+.qq_face .qq-tiger2{
+ background-position:-319px -116px;
+}
+.qq_face .qq-rooster{
+ background-position:-348px -116px;
+}
+.qq_face .qq-bicy{
+ background-position:-377px -116px;
+}
+.qq_face .qq-rowboat{
+ background-position:-406px -116px;
+}
+.qq_face .qq-bike{
+ background-position:0px -145px;
+}
+.qq_face .qq-book{
+ background-position:-29px -145px;
+}
+.qq_face .qq-bow{
+ background-position:-58px -145px;
+}
+.qq_face .qq-cop{
+ background-position:-87px -145px;
+}
+.qq_face .qq-cupid{
+ background-position:-116px -145px;
+}
+.qq_face .qq-fire{
+ background-position:-145px -145px;
+}
+.qq_face .qq-game{
+ background-position:-174px -145px;
+}
+.qq_face .qq-closed{
+ background-position:-203px -145px;
+}
+.qq_face .qq-gun{
+ background-position:-232px -145px;
+}
+.qq_face .qq-hammer{
+ background-position:-261px -145px;
+}
+.qq_face .qq-hat{
+ background-position:-290px -145px;
+}
+.qq_face .qq-hocho{
+ background-position:-319px -145px;
+}
+.qq_face .qq-hots{
+ background-position:-348px -145px;
+}
+.qq_face .qq-yellow{
+ background-position:-377px -145px;
+}
+.qq_face .qq-love{
+ background-position:-406px -145px;
+}
+.qq_face .qq-sunny{
+ background-position:0px -174px;
+}
+.qq_face .qq-moon{
+ background-position:-29px -174px;
+}
+.qq_face .qq-o{
+ background-position:-58px -174px;
+}
+.qq_face .qq-pill{
+ background-position:-87px -174px;
+}
+.qq_face .qq-ring{
+ background-position:-116px -174px;
+}
+.qq_face .qq-ruler{
+ background-position:-145px -174px;
+}
+.qq_face .qq-spark{
+ background-position:-174px -174px;
+}
+.qq_face .qq-star{
+ background-position:-203px -174px;
+}
+.qq_face .qq-star2{
+ background-position:-232px -174px;
+}
+.qq_face .qq-sun{
+ background-position:-261px -174px;
+}
+.qq_face .qq-swim{
+ background-position:-290px -174px;
+}
+.qq_face .qq-syringe{
+ background-position:-319px -174px;
+}
+.qq_face .qq-tada{
+   background-position:-348px -174px;
+}
+.qq_face .qq-tent{
+ background-position:-377px -174px;
+}
+.qq_face .qq-tree{
+ background-position:-406px -174px;
+}
+.qq_face .qq-zap{
+ background-position:0px -203px;
+}
+.qq_face .qq-basket{
+ background-position:-29px -203px;
+}
+.qq_face .qq-runner{
+ background-position:-58px -203px;
+}
+.qq_face .qq-santa{
+ background-position:-87px -203px;
+}
+.qq_face .qq-twomen{
+ background-position:-116px -203px;
+}
+.qq_face .qq-walking{
+ background-position:-145px -203px;
+}
+.qq_face .qq-twowo{
+ background-position:-174px -203px;
+}
+.qq_face .qq-umbre{
+ background-position:-203px -203px;
+}
+.qq_face .qq-vertical{
+ background-position:-232px -203px;
+}
+.qq_face .qq-watch{
+ background-position:-261px -203px;
+}
+.qq_face .qq-wc{
+ background-position:-290px -203px;
+}
+.qq_face .qq-wedd{
+ background-position:-319px -203px;
+}
+.qq_face .qq-woman{
+ background-position:-348px -203px;
+}
+.qq_face .qq-jeans{
+ background-position:-377px -203px;
+}
+.qq_face .qq-women{
+ background-position:-406px -203px;
+}
+.qq_face .qq-yen{
+ background-position:0px -232px;
+}
+.qq_face .qq-zzz{
+ background-position:-29px -232px;
+}
